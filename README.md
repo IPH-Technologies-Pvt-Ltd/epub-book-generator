@@ -1,10 +1,14 @@
 # epub-book-generator in React using jsZip Library
+[![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 The EPUB Generator in React is a simple and user-friendly project that empowers users to create their own EPUB books with personalized content. The project leverages the jsZip library to seamlessly generate EPUB files, a widely accepted format for electronic publications.
-
-![Project Preview](https://github.com/IPH-Technologies-Pvt-Ltd/epub-book-generator/assets/133772531/047daed1-ebdd-42d4-8597-bfa7cb066b9d)
+![epub-book-generator](https://github.com/IPH-Technologies-Pvt-Ltd/epub-book-generator/assets/133772531/ec48cea0-8ebe-4bee-a8d1-a2cb8f144184)
 
 ## Table of Contents
+
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
